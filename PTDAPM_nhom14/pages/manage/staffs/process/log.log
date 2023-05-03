@@ -1,0 +1,56 @@
+02.06.2022 02:50:16 <!-- sql=[insert into user_table 
+	(username,password,phone,email,address)
+	values 
+	('123','123','123','123','123')] --> 
+02.06.2022 02:50:16 sql=[select * from user_table] 
+02.06.2022 02:50:16 sql=[SELECT * FROM products ORDER BY id DESC LIMIT 1] 
+02.06.2022 02:53:31 <!-- sql=[insert into user_table 
+	(username,password,phone,email,address)
+	values 
+	('123','123','123','123','123')] --> 
+02.06.2022 02:53:31 sql=[select * from user_table] 
+02.06.2022 02:53:31 sql=[SELECT * FROM products ORDER BY id DESC LIMIT 1] 
+09.06.2022 02:46:56 <!-- sql=[update user_table set username=n'admin',password=n'21232f297a57a5a743894a0e4a801fc3',phone=n'0902345934',email=n'@gmail.com',address=n'Hà Nội'  where id=17] --> 
+09.06.2022 02:46:56 sql=[SELECT * FROM products ORDER BY id DESC LIMIT 1] 
+09.06.2022 02:47:05 <!-- sql=[update user_table set username=n'admin1',password=n'21232f297a57a5a743894a0e4a801fc3',phone=n'0902345934',email=n'@gmail.com',address=n'Hà Nội'  where id=17] --> 
+09.06.2022 02:47:05 sql=[SELECT * FROM products ORDER BY id DESC LIMIT 1] 
+09.06.2022 03:01:26 <!-- sql=[update user_table set username=n'admin10',password=n'21232f297a57a5a743894a0e4a801fc3',phone=n'0902345934',email=n'@gmail.com',address=n'Hà Nội'  where id=17] --> 
+09.06.2022 03:01:26 sql=[SELECT * FROM products ORDER BY id DESC LIMIT 1] 
+12.06.2022 01:03:20 <!-- sql=[update user_table set username=n'admin1',password=n'21232f297a57a5a743894a0e4a801fc3',phone=n'0902345934',email=n'@gmail.com',address=n'Hà Nội'  where id=17] --> 
+12.06.2022 01:03:20 sql=[SELECT * FROM products ORDER BY id DESC LIMIT 1] 
+12.06.2022 01:05:48 <!-- sql=[update user_table set username=n'admin1',password=n'c3284d0f94606de1fd2af172aba15bf3',phone=n'0902345934',email=n'@gmail.com',address=n'Hà Nội'  where id=17] --> 
+12.06.2022 01:05:48 sql=[SELECT * FROM products ORDER BY id DESC LIMIT 1] 
+12.06.2022 01:08:15 <!-- sql=[update user_table set username=n'admin1',password=n'',phone=n'0902345934',email=n'@gmail.com',address=n'Hà Nội'  where id=17] --> 
+12.06.2022 01:08:15 sql=[SELECT * FROM products ORDER BY id DESC LIMIT 1] 
+12.06.2022 01:10:18 <!-- sql=[update user_table set username=n'admin',password=n'',phone=n'123123123',email=n'@gmail.com',address=n'Hà Nội'  where id=18] --> 
+12.06.2022 01:10:18 sql=[SELECT * FROM products ORDER BY id DESC LIMIT 1] 
+12.06.2022 01:11:39 <!-- sql=[update user_table set username=n'admin',password=n'NULL',phone=n'123123',email=n'@gmail.com',address=n'Hà Nội'  where id=19] --> 
+12.06.2022 01:11:39 sql=[SELECT * FROM products ORDER BY id DESC LIMIT 1] 
+12.06.2022 01:13:09 <!-- sql=[update user_table set username=n'admin',password=n'NULL',phone=n'1213',email=n'@gmail.com',address=n'Hà Nội'  where id=20] --> 
+12.06.2022 01:13:09 sql=[SELECT * FROM products ORDER BY id DESC LIMIT 1] 
+12.06.2022 01:14:05 <!-- sql=[update user_table set username=n'admin',password=n'098f6bcd4621d373cade4e832627b4f6',phone=n'1',email=n'@gmail.com',address=n'Hà Nội'  where id=21] --> 
+12.06.2022 01:14:05 sql=[SELECT * FROM products ORDER BY id DESC LIMIT 1] 
+12.06.2022 01:54:05 <!-- sql=[update user_table set username=n'vu123',password=n'098f6bcd4621d373cade4e832627b4f6',phone=n'0904688908',email=n'@gmail.com',address=n'Hà Nội'  where id=34] --> 
+12.06.2022 01:54:05 sql=[SELECT * FROM products ORDER BY id DESC LIMIT 1] 
+12.06.2022 02:04:47 <!-- sql=[update user_table set username=n'admin',password=n'098f6bcd4621d373cade4e832627b4f6',phone=n'1',email=n'@gmail.com',address=n'Hà Nội'  where id=21] --> 
+12.06.2022 02:04:47 sql=[SELECT * FROM products ORDER BY id DESC LIMIT 1] 
+12.06.2022 02:08:30 <!-- sql=[update user_table set username=n'admin',password=n'098f6bcd4621d373cade4e832627b4f6',phone=n'1',email=n'@gmail.com',address=n'Hà Nội'  where id=21] --> 
+12.06.2022 02:08:30 sql=[SELECT * FROM products ORDER BY id DESC LIMIT 1] 
+12.06.2022 02:38:37 <!-- sql=[update user_table set username=n'admin',password=n'e00cf25ad42683b3df678c61f42c6bda',phone=n'0904688908',email=n'@gmail.com',address=n'Hà Nội'  where id=37] --> 
+12.06.2022 02:38:37 sql=[SELECT * FROM products ORDER BY id DESC LIMIT 1] 
+12.06.2022 02:53:55 <!-- sql=[update user_table set username=n'admin',password=n'098f6bcd4621d373cade4e832627b4f6',phone=n'0904688908',email=n'@gmail.com',address=n'Hà Nội'  where id=40] --> 
+12.06.2022 02:53:55 sql=[SELECT * FROM products ORDER BY id DESC LIMIT 1] 
+16.04.2023 05:32:55 <!-- sql=[insert into user_table 
+	(username,password,phone,email,address)
+	values 
+	('admin11','123456','0312345686','hieungovan99@gmail.com','ha noi')] --> 
+16.04.2023 05:32:55 sql=[select * from user_table] 
+16.04.2023 05:32:55 sql=[SELECT * FROM products ORDER BY id DESC LIMIT 1] 
+17.04.2023 03:33:31 <!-- sql=[insert into user_table 
+	(username,password,phone,email,address)
+	values 
+	('admin10','hieu123','0123456666','hieungovan6@gmail.com','ha noi')] --> 
+17.04.2023 03:33:31 sql=[select * from user_table] 
+17.04.2023 03:33:31 sql=[SELECT * FROM products ORDER BY id DESC LIMIT 1] 
+22.04.2023 09:53:09 <!-- sql=[delete from user_table   WHERE id =23] --> 
+22.04.2023 09:53:09 sql=[SELECT * FROM products ORDER BY id DESC LIMIT 1] 
